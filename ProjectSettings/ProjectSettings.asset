@@ -586,7 +586,7 @@ PlayerSettings:
   facebookSdkVersion: 7.9.1
   apiCompatibilityLevel: 2
   cloudProjectId: 0c5fb178-0e58-418e-8e6c-30a4fd61d634
-  projectName: Slime (5)
+  projectName: Slime
   organizationId: keita-tsutsui
   cloudEnabled: 0
   enableNewInputSystem: 0
